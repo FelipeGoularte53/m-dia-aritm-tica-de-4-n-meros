@@ -1,5 +1,4 @@
 # média aritmética
-Entendi! Vou explicar o código que criei anteriormente para calcular a média aritmética de quatro números. O código é dividido em três partes principais: HTML, CSS e JavaScript. Vamos detalhar cada uma dessas partes.
 
 ### 1. **HTML (index.html)**
 
