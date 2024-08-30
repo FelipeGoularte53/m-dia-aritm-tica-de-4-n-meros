@@ -1,11 +1,8 @@
 # média aritmética
-
+Entendi! Vou explicar o código que criei anteriormente para calcular a média aritmética de quatro números. O código é dividido em três partes principais: HTML, CSS e JavaScript. Vamos detalhar cada uma dessas partes.
 
 1. HTML (index.html)
 O HTML fornece a estrutura básica da página da web.
-
-html
-Copiar código
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -37,8 +34,8 @@ Copiar código
     <script src="script.js"></script>
 </body>
 </html>
-Explicação:
 
+Explicação:
 <!DOCTYPE html>: Declara o tipo de documento e a versão do HTML. É a primeira linha de um documento HTML5.
 <html lang="pt-BR">: Define o início do documento HTML e especifica que o idioma da página é português do Brasil.
 <head>: Contém metadados sobre o documento, como o conjunto de caracteres e o título da página.
@@ -55,6 +52,3 @@ Explicação:
 <button type="button" onclick="calcularMedia()">: Botão que, quando clicado, chama a função calcularMedia() definida no JavaScript.
 <div id="resultado">: Divisão onde o resultado será exibido.
 <script src="script.js"></script>: Inclui o arquivo JavaScript que contém a lógica para calcular a média.
-2. CSS (styles.css)
-O CSS estiliza a página, controlando a aparência dos elementos HTML.
-
